@@ -1,1 +1,4 @@
 config.py
+*.p
+.ipynb_checkpoints
+__pycache__
