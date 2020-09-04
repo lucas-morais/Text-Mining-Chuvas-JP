@@ -1,5 +1,7 @@
 config.py
+config2.py
 *.p
 .ipynb_checkpoints
 __pycache__
 .idea
+.vscode
